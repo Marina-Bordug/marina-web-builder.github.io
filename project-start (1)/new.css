@@ -1,0 +1,12 @@
+.text {
+    font-family: Verdana;
+    font-size: 20px;
+}
+
+.text-red {
+    color: red;
+}
+
+.text-blue {
+    color: blue;
+}
